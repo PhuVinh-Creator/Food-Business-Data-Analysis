@@ -56,10 +56,8 @@ The datasets has 2205 rows and 39 columns with usability score of 9.41
 | NumWebPurchases         | Number of purchases made through company's website                              |
 | NumWebVisitsMonth       | Number of visits to company's website in the last month                         |
 | Recency                 | Number of days since the last purchase                                          |
-| AcceptedCmpOverall                 | Total offers customer accepted
-          
-| Z_CostContact                 | Value of 3
-          |
+| AcceptedCmpOverall                 | Total offers customer accepted|
+| Z_CostContact                 | Value of 3|
 | Z_Revenue	                 | Value of 11|
           
 
