@@ -61,7 +61,7 @@ The datasets has 2205 rows and 39 columns with usability score of 9.41
 | Z_CostContact                 | Value of 3
           |
 | Z_Revenue	                 | Value of 11
-          |
+          
 
 ## 4) Analytical tools used in the project 📚
 - Language: Python
