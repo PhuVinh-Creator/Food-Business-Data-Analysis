@@ -1,4 +1,5 @@
 # Food-Business-Data-Analysis
+<img width="926" height="577" alt="image" src="https://github.com/user-attachments/assets/4c24cdd3-7066-4ccb-8a38-e6db60f58e9b" />
 
 ## 1) Goals of the project 🎯
 ### Business Goal: 
