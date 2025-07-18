@@ -76,14 +76,14 @@ The datasets has 2205 rows and 39 columns with usability score of 9.41
 - Optimal Model: Random Forest (RMSE: 192.04, R²: 0.8909)
 
 ## 6) Hypotheses ✏️
-Hypothesis 1: Customer's income is equivalent to the total cart value
-Hypothesis 2: Customer tends to make more purchases by using business catalogue
-Hypothesis 3: Customers love to pay more when going shopping at brick-and-mortar store
-Hypothesis 4: Marketing Campaign 5 proven to be successful
-Hypothesis 5: Business benefits the most from old customer
-Hypothesis 6: A family with teen and kid comparison
-Hypothesis 7: Recency shapes customer purchasing behaviors
-Hypothesis 8: People visiting company website in last month, tends to pay less the following month
+- Hypothesis 1: Customer's income is equivalent to the total cart value
+- Hypothesis 2: Customer tends to make more purchases by using business catalogue
+- Hypothesis 3: Customers love to pay more when going shopping at brick-and-mortar store
+- Hypothesis 4: Marketing Campaign 5 proven to be successful
+- Hypothesis 5: Business benefits the most from old customer
+- Hypothesis 6: A family with teen and kid comparison
+- Hypothesis 7: Recency shapes customer purchasing behaviors
+- Hypothesis 8: People visiting company website in last month, tends to pay less the following month
 
 ## 7) Summary and Suggestions 💡
 
