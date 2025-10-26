@@ -73,7 +73,7 @@ The datasets has 2205 rows and 39 columns with usability score of 9.41
 
 ## 5) Model 📊
 - Model performance comparision
-- Optimal Model: Random Forest (RMSE: 192.04, R²: 0.8909)
+- Optimal Model: XGBoost (RMSE: 184.81, R²: 0.8989)
 
 ## 6) Hypotheses ✏️
 - Hypothesis 1: Customer's income is equivalent to the total cart value
